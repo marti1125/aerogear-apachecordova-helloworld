@@ -1,0 +1,21 @@
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes.dex : \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\BuildConfig.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\HelloCordova.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\NotificationMessageHandler.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\PushPlugin$1.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\PushPlugin$VoidCallback.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\PushPlugin.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\R$attr.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\R$drawable.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\R$string.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\R$xml.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\classes\io\cordova\hellocordova\R.class \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\classes-2e807f285bb96108f82396a904c49a60.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\gson-2.2.2-b717866a1fa417697277469053d28373.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\aerogear-android-1.3.1-a9fe4192fb52f02f07ac3523a055f42b.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\jsr305-1.3.9-3ac44deda080118c8276ee04d029dadc.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\javax.inject-1-d52df79b786fc504c07176641a77b0db.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\guava-14.0.1-a1f3913c78dc7e201529cdabb62d2dcf.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\gcm-d96cd066f3fee866ff778d4b109280ca.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\google-play-services-d1c37f60db7a1fd59de385d5990ca157.jar \
+C:\Users\Willy\Documents\aerogear-cordova-helloworld\platforms\android\ant-build\dexedLibs\android-support-v13-d0d079f943e0e360eda5ccb5ba157d58.jar \
