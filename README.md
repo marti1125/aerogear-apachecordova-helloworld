@@ -51,6 +51,14 @@ This directory will contain the sdk for android. Add tools and platform-tools to
 
 Once the environment is setup, an Android Virtual Device (AVD) should be added. The Virtual device is the target device on which the application created using cordova will be tested. The best resource for creating an AVD is [Managing AVD](http://developer.android.com/tools/devices/managing-avds.html)
 
+In Command Prompt run
+
+    android
+
+![androidsdk_buildtools](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/androidsdk_buildtools.png)
+
+Install Android SDK Build-Tools last version 19.0.3, Android 4.4.2 and Android 2.3.3 
+
 **Hurrah All Set**
 
 
