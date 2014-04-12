@@ -1,3 +1,4 @@
+
 Create an app with Apache Cordova 3.4.0
 =======================================
 
@@ -23,11 +24,7 @@ Download apache-ant-x.x.x-bin.zip from [Ant Download](http://ant.apache.org/bind
 
 Open environment variables (Control Panel » System » Advanced » Environment Variables) add a new system variable as displayed below, 
 
-![anthome](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/ant_home.png)
-
-Set the %ANT_HOME%\bin; to the path as displayed below,
-
-![antpath](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/Ant_Path.png)
+![ant](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/ant.png)
 
 Verify the installation of Ant by typing the following command in the command prompt, 
 
@@ -47,7 +44,11 @@ Extract the downloaded adt-bundle-windows-xxx_xx-xxxxxxxx.zip to a directory (E:
 
 This directory will contain the sdk for android. Add tools and platform-tools to the path variable of the environment variables as displayed below,
 
-![androidsdktools](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/platform_tools_path.png)
+![android_home](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/android_home.png)
+
+Set the %ANDROID_HOME%\bin; to the path as displayed below,
+
+![android_platform_tools](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/add_path_android_home.png)
 
 Once the environment is setup, an Android Virtual Device (AVD) should be added. The Virtual device is the target device on which the application created using cordova will be tested. The best resource for creating an AVD is [Managing AVD](http://developer.android.com/tools/devices/managing-avds.html)
 
