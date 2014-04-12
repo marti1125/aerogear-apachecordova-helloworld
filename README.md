@@ -46,7 +46,7 @@ This directory will contain the sdk for android. Add tools and platform-tools to
 
 ![android_home](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/android_home.png)
 
-Set the %ANDROID_HOME%\bin; to the path as displayed below,
+Set the %ANDROID_HOME%\platform-tools; and %ANDROID_HOME%\tools; to the path as displayed below,
 
 ![android_platform_tools](https://raw.github.com/marti1125/aerogear-apachecordova-helloworld/master/doc/add_path_android_home.png)
 
