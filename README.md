@@ -1,5 +1,5 @@
 
-Create an app with Apache Cordova 3.4.0
+Create an app with Apache Cordova 3.4.0 (in progress)
 =======================================
 
 ###Setup Apache Cordova in Windows
